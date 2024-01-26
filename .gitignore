@@ -13,6 +13,5 @@ test.py
 
 *.csv
 !requirements.txt
-!sample_submission.csv
 
 .DS_Store
